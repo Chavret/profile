@@ -1,6 +1,6 @@
 /* Here goes your CSS */
 .card {
-  background: #CCCCCC;
+  background: #EBEBEB;
   padding: 20px;
   margin-bottom: 20px;
   border-radius: 4px;
@@ -18,7 +18,7 @@
   padding: 0px 0px;
 }
 body {
-  background: #EBEBEB;
+  background: #CCCCCC;
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   font-size: 15px;
