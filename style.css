@@ -1,0 +1,91 @@
+/* Here goes your CSS */
+.card {
+  background: #CCCCCC;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px #E6E6E6;
+}
+.container {
+  width: 560px;
+  margin: 30px auto;
+  text-align: center;
+}
+.card-text-center {
+  width: 520px;
+  margin: 30px 0px;
+  list-style-type: none;
+  padding: 0px 0px;
+}
+body {
+  background: #EBEBEB;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+table {
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1.6em;
+  display: table;
+  border-collapse: separate;
+  border-spacing: 2px;
+  border-color: grey;
+  width: 100%;
+}
+tr {
+  display: table-row;
+  vertical-align: inherit;
+  border-color: inherit;
+}
+td {
+  display: table-cell;
+  vertical-align: inherit;
+  width: 45%;
+}
+h3 {
+  font-size: 18px;
+  font-weight: 300;
+}
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 100px;
+}
+h1 {
+  color: #DD5555;
+  font-size: 22px;
+}
+h2 {
+  font-size: 18px;
+  font-weight: 300;
+}
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+p {
+  display: block;
+  text-align: justify;
+}
+.img-movie {
+  width: 200px;
+  height: 295px;
+  border-radius: 10px;
+}
+tbody {
+  display: table-row-group;
+  vertical-align: middle;
+  border-color: inherit;
+}
+.fa {
+  display: inline-block;
+  color: #7F7F7F;
+}
+.fa:hover {
+  display: inline-block;
+  color: #FF0000;
+}
+.list-inline-links {
+  padding-left: 0px;
+}
